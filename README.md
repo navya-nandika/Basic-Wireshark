@@ -1,4 +1,4 @@
-**Capture and Analyze Network Traffic Using Wireshark**
+#**Capture and Analyze Network Traffic Using Wireshark**
 
 *Objective:*
 
@@ -32,11 +32,11 @@ sudo usermod -aG wireshark $USER (user - navya here)
 
 Generated traffic by:
 
-# Visiting websites (e.g.,  google.com) -> from firefox
+-> Visiting websites (e.g.,  google.com) -> from firefox
 
-# Running websites from google terminal
+->Running websites from google terminal
 
-# Stopped the capture after about 1 minute.
+-> Stopped the capture after about 1 minute.
 
 Applied filters to analyze traffic by protocol:
 
