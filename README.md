@@ -1,4 +1,4 @@
-#**Capture and Analyze Network Traffic Using Wireshark**
+# **Capture and Analyze Network Traffic Using Wireshark**
 
 *Objective:*
 
@@ -34,7 +34,7 @@ Generated traffic by:
 
 -> Visiting websites (e.g.,  google.com) -> from firefox
 
-->Running websites from google terminal
+-> Running websites from google terminal
 
 -> Stopped the capture after about 1 minute.
 
@@ -101,6 +101,8 @@ A protocol is a set of rules that define how data is transmitted and received ov
 8.Can Wireshark decrypt encrypted traffic? 
 
 Wireshark cannot normally decrypt encrypted traffic like HTTPS or SSH unless you have the appropriate decryption keys or use specific debugging setups that provide session keys.
+
+
 
 
 *Author : Navya Nandika*
